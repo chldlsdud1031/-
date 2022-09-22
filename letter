@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>비밀편지 쉿~♥</title>
+</head>
+<body>
+	<h1>
+		<strong>
+			to.호미들
+		</strong>
+	</h1>
+
+	<p><strong>◀호미들 안농▶</strong><br>
+	사실 이건 그냥 html을 배우기 시작해서<br>
+	<strong>신난 최인영이야</strong><br>
+	줄 바꾸기도 할 수 있다구</p>
+
+	<p>앞에서 교수님이 열심히 강의를 하고 계시는데<br>
+	다들 html+tab 단계에서 막혀서 좀 웃기구... 개발자 없는 디자이너는<br>
+	이렇게... 머쓱하고... 힘들구나... 느끼는 중...</p>
+	<img src="호미들.png" height="300">
+	<br>나 이렇게 이미지도 넣을줄 알아
+	<br>
+	<ul>
+		<li>복숭아</li>
+		<li>무화과</li>
+		<li>
+			수박바 삼행시
+			<ol>
+				<li>수- 수박을 싫어하는 연주온냐</li>
+				<li>박- 박수박바는 어때??!</li>
+				<li>바- 바밤바는 어때??!!</li>
+			</ol>
+		</li>
+	</ul>
+		<details>
+			<summary>복숭아는 삼행시 없어</summary>
+			<p>
+				<li>복- 복 받으세요 여러분~~</li>
+				<li>숭- 숭그러운 하루 보내시구요~<br>
+					<img src="https://i.pinimg.com/564x/43/b7/54/43b7548f22ffffadecc34834fcd322ac.jpg"height="300"> </li>
+				<li>아- 아이스크림도 사먹구~~</li>
+			</p>
+		</details>
+<br>
+	<h4>아 그리고</h4>
+	<h2>검정치마 이번에 새로운 앨범 나왔어</h2>
+		<iframe width="560" height="315" src="https://www.youtube.com/embed/LwtgRAge4B4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<br>이건 이번 앨범 내 최애 곡이야.., <a href="https://www.youtube.com/watch?v=uuGtrxDsrws">검치-hollywood</a> 좋아하면 꼭꼭 들어봐 (내 얘기)
+	<br>사실 색 바꾸기도 할줄 알았는데 까먹었어 잇힝~~
+	<br>
+	<br>그럼 <strong>다들 재미난 하루 보내</strong> 난 연강이라 언능 레포 올리고 계단타야겟다
+	<br>
+
+</body>
+</html>
